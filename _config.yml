@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 'd76e7ef2e643bcf2b4bc'    #生成的clientID
   clientSecret: '7f1f1ecd0ba6d5eefeea2d84066f0cc245a38b74'   #同上
-  repo: img_gitalk    #仓库名称
+  repo: blogTalk    #仓库名称
   owner: iteh3712198    #github用户名
   admin: iteh3712198
 
