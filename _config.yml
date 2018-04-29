@@ -4,7 +4,7 @@ SEOTitle: 四季映画的博客 | FourSeasons Blog  #显示在浏览器上搜索
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
 email: 379663282@qq.com
 description: "Hey，我是四季，一名从土木工程转行的程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客（当然是fork的大神的啦）。欢迎大家来玩。" #网站介绍
-keyword: "Fe的博客,fedemo,GitHub,Fe,博客,Blog,JAVA" #关键词
+keyword: "大数据,GitHub,博客,Blog,JAVA" #关键词
 url: "https://iteh3712198.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
@@ -18,7 +18,7 @@ baidu_js_push: false
 
 # Sidebar settings侧边栏
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "虚拟体验也好，梦也罢，这个世上的信息，既现实也虚幻;无论如何，人一生所能接触的事物也只是沧海一粟"
 sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
